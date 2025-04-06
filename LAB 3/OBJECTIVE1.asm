@@ -1,3 +1,7 @@
+;LAB 3 OBJECTIVE 1
+;Amlan Anshuman Nayak 
+;2341014053
+
 .DATA
    COUNT DB 04H
    VALUE DB 09H, 10H, 05H, 03H
